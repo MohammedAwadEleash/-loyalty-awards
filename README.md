@@ -10,6 +10,10 @@ A small single-process API that awards loyalty points safely under partner retri
 ## Commands
 
 ```bash
+# Get the code
+git clone https://github.com/MohammedAwadEleash/-loyalty-awards.git
+cd ./-loyalty-awards
+
 # Start the service on http://localhost:5080
 dotnet run --project src/LoyaltyAwards.Api
 
